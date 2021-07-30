@@ -1,2 +1,4 @@
 ﻿2021-07-30 21:35:16.6478|DEBUG|NUnitTestPrograms.NLog| Debug :  Debug success for Machine() 
 2021-07-30 21:35:16.7512|INFO|NUnitTestPrograms.NLog| Info : Machine method passed. 
+2021-07-30 22:30:09.9269|DEBUG|NUnitTestPrograms.NLog| Debug :  Debug success for DayOfWeek() 
+2021-07-30 22:30:10.2372|DEBUG|NUnitTestPrograms.NLog| Debug :  Debug success for TakeInput()

@@ -31,8 +31,8 @@ namespace NUnitTestPrograms
                 }
             }
             Console.WriteLine(" Total Notes given : "+count);
-            nLog.LogDebug(" Debug success for Machine() ");
-            nLog.LogInfo(" Machine method passed. ");
+            nLog.LogDebug(" Debug success for Machine() \n");
+            nLog.LogInfo(" Machine method passed. \n");
         }
     }
 }
